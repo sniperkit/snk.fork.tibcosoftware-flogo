@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/labs/</link>
+    <description>Recent content in Labs on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial for PubNub</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/pubnub-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/pubnub-demo/</guid>
+      <description>Building microservices is awesome, having them talk to each other is even more awesome! But in today&amp;rsquo;s world, you can&amp;rsquo;t be too careful when it comes to sending sensitive data across the wire. In this demo you explore how to build a simple microservice to receive the messages from PubNub and write that data to a file.
+What you&amp;rsquo;ll need The Flogo Web UI This demo makes use of the Flogo Web UI.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial with Serverless Framework</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/serverless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/serverless/</guid>
+      <description>Building serverless apps is awesome! As a developer you don&amp;rsquo;t have to worry about provisioning or maintaining servers, and you only have to create the code that you need to power your next business idea! Deploying such apps is made super easy by the team at Serverless Framework.With the Serverless Framework, you can configure which events should trigger it, where to deploy it and what kind of resources it is allowed to use without going into the AWS console.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Kubernetes</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/kubernetes-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/kubernetes-demo/</guid>
+      <description>Kubernetes is probably the most wellknown container orchestration platform out there, with a ton of companies building and hosting their own specific version or making use of of one. In this demo you explore how to run Flogo apps on Kubernetes. The demo will walk you through deploying two apps:
+ An invoice service which gets details on the invoice you specify in the URL A payment service which gets details on the expected payment date for the invoice  The invoice service will make use of the payment service to display all data</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Raspberry Pi</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/raspberry-iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/raspberry-iot/</guid>
+      <description>A Raspberry Pi is probably one of the most well-known small single-board computers built to promote the teaching of basic computer science, and increasingly used for cool IoT projects. Flogo runs perfectly on these small devices, and in this lab you&amp;rsquo;ll build a sample to read and write data to the GPIO pins of the device
+What you&amp;rsquo;ll need The Flogo Web UI This demo makes use of the Flogo Web UI.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for AWS IoT</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/aws-iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/aws-iot/</guid>
+      <description>A device shadow is a digital representation in the cloud that stores and retrieves current state information for a device. You can get and set the state of a device over MQTT or HTTP, even if the device isn&amp;rsquo;t connected to the Internet.
+What you&amp;rsquo;ll need The Flogo Web UI This demo makes use of the Flogo Web UI. If you don&amp;rsquo;t have that one running yet, please check out Getting Started with the Flogo Web UI</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Books</title>
+      <link>https://tibcosoftware.github.io/flogo/labs/books-demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/labs/books-demo/</guid>
+      <description>Who doesn&amp;rsquo;t like a good book? But what if you really, really need to get some information about a book first? In that case you build a Flogo app that uses the Google APIs to get book information!
+What you&amp;rsquo;ll need The Flogo Web UI This demo makes use of the Flogo Web UI. If you don&amp;rsquo;t have that one running yet, please check out Getting Started with the Flogo Web UI</description>
+    </item>
+    
+  </channel>
+</rss>
