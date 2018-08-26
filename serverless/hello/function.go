@@ -1,4 +1,9 @@
-//go:generate go run $GOPATH/src/github.com/TIBCOSoftware/flogo-lib/flogo/gen/gen.go $GOPATH
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+//go:generate go run $GOPATH/src/github.com/sniperkit/snk.fork.tibcosoftware-flogo-lib/flogo/gen/gen.go $GOPATH
 // Package main implements the main logic of the function
 package main
 
@@ -6,12 +11,12 @@ package main
 import (
 	"context"
 
-	"github.com/TIBCOSoftware/flogo-contrib/activity/log"
-	"github.com/TIBCOSoftware/flogo-contrib/trigger/lambda"
-	"github.com/TIBCOSoftware/flogo-lib/config"
-	"github.com/TIBCOSoftware/flogo-lib/core/data"
-	"github.com/TIBCOSoftware/flogo-lib/flogo"
-	"github.com/TIBCOSoftware/flogo-lib/logger"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-contrib/activity/log"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-contrib/trigger/lambda"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-lib/config"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-lib/core/data"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-lib/flogo"
+	"github.com/sniperkit/snk.fork.tibcosoftware-flogo-lib/logger"
 )
 
 // Init makes sure that everything is ready to go!

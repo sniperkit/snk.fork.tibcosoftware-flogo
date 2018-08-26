@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*!
  * Sizzle CSS Selector Engine v2.3.3
  * https://sizzlejs.com/

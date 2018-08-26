@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Sticky Plugin v1.0.4 for jQuery
 // =============
 // Author: Anthony Garand

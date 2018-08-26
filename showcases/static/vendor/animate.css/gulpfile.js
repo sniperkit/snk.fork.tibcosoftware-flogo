@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Utilities
 var autoprefixer = require('autoprefixer');
 var cssnano = require('cssnano');
